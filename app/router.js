@@ -1,4 +1,4 @@
-export default Ember.Router.extend({
+var Router =  Ember.Router.extend({
   location: ENV.locationType
 });
 

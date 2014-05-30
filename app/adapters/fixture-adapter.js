@@ -1,1 +1,0 @@
-Ember.ApplicationAdapter = DS.FixtureAdapter.extend();
